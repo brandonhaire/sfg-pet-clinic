@@ -45,7 +45,6 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/brandonhaire/sfg-pet-clinic.git</developerConnection>
-	  <tag>HEAD</tag>
   </scm>
 
 </project>
