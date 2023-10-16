@@ -1,11 +1,9 @@
-package guru.springframework.sfgpetclinic.services;
+package guru.springframework.sfgpetclinic.services.map;
 
-import java.util.Map;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Map;
 import java.util.Set;
-
-import org.yaml.snakeyaml.events.Event.ID;
 
 public abstract class AbstractMapService<T, ID> {
 
