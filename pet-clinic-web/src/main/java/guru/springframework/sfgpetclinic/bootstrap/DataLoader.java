@@ -1,4 +1,4 @@
-package guru.springframework.sfgpetclinic.boostrap;
+package guru.springframework.sfgpetclinic.bootstrap;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
